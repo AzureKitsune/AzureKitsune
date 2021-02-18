@@ -34,12 +34,16 @@ Aqua is a Discord bot written in Python for my personal server. She is named aft
 
 Other features include:
 - Anime convention news via RSS.
-- Discord voice channel control for rounds of Among Us.
+![img0](https://raw.githubusercontent.com/AzureKitsune/AzureKitsune/main/imgs/aqua-bot-0.png)
+- Discord voice channel control for rounds of Among Us. Press 🔴 to undeafen everyone when the emergency button is pressed and 🟢 to deafen when the game is in-progress.
+![img1](https://github.com/AzureKitsune/AzureKitsune/blob/main/imgs/aqua-bot-1.png)
 - Automatic YouTube video posting.
 - Server Role/Access Management
 
 #### 🥽 Ocu-Manager (for Oculus Quest devices on Windows)
 When I recently bought an Oculus Quest 2 for VR Games, I stumbled upon a tool called [Oculus Tray Tool](https://forums.oculusvr.com/community/discussion/47247/oculus-traytool-supersampling-profiles-hmd-disconnect-fixes-hopefully/p61). As a learning exercise, I tried to recreate it from scratch in C#. Enter Ocu-Manager (because I'm bad with names):
+
+![img0](https://github.com/AzureKitsune/AzureKitsune/blob/main/imgs/ocu-manager.png)
 
 Ocu-Manager can detect when an Oculus Quest device is connected via USB (for Oculus Link purposes) and automatically open the Oculus Home app and start SteamVR as well. Likewise, it can close those applications when the HMD is disconnected.
 
