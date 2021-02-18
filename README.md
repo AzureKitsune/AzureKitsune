@@ -10,12 +10,23 @@ My name is Alex. I am an aspiring Software Developer, and I started my journey b
 ### About Me
 
 #### Likes
-- 🔵 Most shades of the color Blue (hence Azure).
+- 🔵 Most shades of Blue (hence Azure).
 - 🎮 Video Games (particularly JRPGs).
 - 🗾 Japanese Culture, the Japanese Language, and Anime.
 - 🏨 Anime Conventions
 - 🍜 Food
-- 🎵 City Pop (e.g. [Plastic Love](https://open.spotify.com/track/7rU6Iebxzlvqy5t857bKFq)  by Mariya Takeuchi)
+- 🎵 City Pop (e.g., [Plastic Love](https://open.spotify.com/track/7rU6Iebxzlvqy5t857bKFq)  by Mariya Takeuchi)
+
+##### Favorite Video Games (non-exhaustive)
+###### [The Legend of Heroes: Trails/Kiseki series](https://en.wikipedia.org/wiki/Trails_(series))
+![the legend of heroes: trails of cold steel 2](https://66.media.tumblr.com/60e2ba9af891ec5b8ac6d949ab11a066/tumblr_om3x9tVprc1vxqr9no1_500.gif)
+
+###### Persona/SMT
+![persona 5](https://media1.tenor.com/images/1df5e272803cd1e6f3c5c42329d4abff/tenor.gif?itemid=10481671)
+
+###### Assassin's Creed
+![assassins creed 3](https://media.giphy.com/media/FHI3DdJU0Kp5m/giphy.gif)
+
 
 #### Hobbies and Projects
 #### 🔵 Aqua (private repo)
@@ -33,7 +44,7 @@ Other features include:
 Crystal v3 helps me follow the MVVM (Model View ViewModel) design pattern, ensuring that my code is testable and reduces code coupling. The ViewModel base class allows me to set up data binding with a view relatively easily. There is a basic implementation of Inversion of Control (IoC) which is useful for mock testing. It also abstracts away different quirks between the various Windows 10 platforms, ensuring that my application runs the same on them. Conversely, it also has platform detection allowing me to design different user interfaces based on the platform. From there, Crystal will determine the correct interface to display.
 
 #### 🟣 Neptunium (retired)
-Neptunium was a C# UWP (Universal Windows Platform) application for Windows 10 devices (Windows 10 PCs, phones, Xbox One/Series, HoloLens, etc) designed to stream Shoutcast radio stations from a specific list. As you may have guest, these stations for Japanese and Korean radio stations.
+Neptunium was a C# UWP (Universal Windows Platform) application for Windows 10 devices (Windows 10 PCs, phones, Xbox One/Series, HoloLens, etc.) designed to stream Shoutcast radio stations from a specific list. As you may have guest, these stations for Japanese and Korean radio stations.
 
 *It was because of this project, I had to learn how to write a library for parsing MP3 audio frames. The library was called [UWPShoutcastMSS](https://github.com/Amrykid/UWPShoutcastMSS) and can be found here*
 
