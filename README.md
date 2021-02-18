@@ -11,7 +11,7 @@ My name is Alex. I am an aspiring Software Developer, and I started my journey b
 
 #### Likes
 - 🔵 Most shades of Blue (hence Azure).
-- 🎮 Video Games (particularly JRPGs).
+- 🎮 Video Games (particularly JRPGs and VR games).
 - 🗾 Japanese Culture, the Japanese Language, and Anime.
 - 🏨 Anime Conventions
 - 🍜 Food
@@ -37,6 +37,13 @@ Other features include:
 - Discord voice channel control for rounds of Among Us.
 - Automatic YouTube video posting.
 - Server Role/Access Management
+
+#### 🥽 Ocu-Manager (for Oculus Quest devices on Windows)
+When I recently bought an Oculus Quest 2 for VR Games, I stumbled upon a tool called [Oculus Tray Tool](https://forums.oculusvr.com/community/discussion/47247/oculus-traytool-supersampling-profiles-hmd-disconnect-fixes-hopefully/p61). As a learning exercise, I tried to recreate it from scratch in C#. Enter Ocu-Manager (because I'm bad with names):
+
+Ocu-Manager can detect when an Oculus Quest device is connected via USB (for Oculus Link purposes) and automatically open the Oculus Home app and start SteamVR as well. Likewise, it can close those applications when the HMD is disconnected.
+
+I am slowly working on adding more features inspired by the Oculus Tray Tool as I use my headset more.
 
 #### 💎 Crystal (inactive)
 [Crystal](https://github.com/AzureKitsune/Crystal) was the framework I used to build Windows applications. It is a MVVM-like framework at its core and I've been working on it since 2012. In its current (third) iteration, it is designed for the Universal Windows Platform (which runs on Windows 10 PCs, phones, Xbox One/Series, HoloLens, etc). It is written in C#.
