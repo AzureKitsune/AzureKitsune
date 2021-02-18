@@ -46,7 +46,7 @@ Crystal v3 helps me follow the MVVM (Model View ViewModel) design pattern, ensur
 #### 🟣 Neptunium (retired)
 Neptunium was a C# UWP (Universal Windows Platform) application for Windows 10 devices (Windows 10 PCs, phones, Xbox One/Series, HoloLens, etc.) designed to stream Shoutcast radio stations from a specific list. As you may have guest, these stations for Japanese and Korean radio stations.
 
-*It was because of this project, I had to learn how to write a library for parsing MP3 audio frames. The library was called [UWPShoutcastMSS](https://github.com/Amrykid/UWPShoutcastMSS) and can be found here*
+*It was because of this project, I had to learn how to write a library for parsing MP3 audio frames. The library was called _UWPShoutcastMSS_ and can be found [here](https://github.com/Amrykid/UWPShoutcastMSS)*
 
 ![img](https://github.com/Amrykid/Neptunium/raw/master/img/win10m/win10m-2_small.png)
 
